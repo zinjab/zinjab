@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zinjab 
-- 👀 I’m interested topics in Controller design, FPGA design, App Dev as well as personal interest in learning multiple spoken languages
-- 🌱 I’m currently learning coding in Python and learning German 
+- 👀 I’m interested developing applets for 2D Semiconductor Devices
+- 🌱 I’m currently learning German 
+     -   Studying to code in Python
 - 💞️ I’m open to collaborate
 - 📫 you may email me at  zingabeel2020@gmail.com
 

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zinjab 
-- 👀 I’m interested developing applets for 2D Semiconductor Devices
-- 🌱 I’m currently learning German 
-     -   Studying to code in Python
+- 👋 Hi, I’m Asma 
+- 👀 I’m interested in all things electrical engineering
+- 🌱 I’m currently studying to code in Python
+- 👩‍💻 Currently working in research
 - 💞️ I’m open to collaborate
 - 📫 you may email me at  zingabeel2020@gmail.com
 

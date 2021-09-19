@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zinjab 🐿️
+- 👋 Hi, I’m @zinjab 
 - 👀 I’m interested topics in Controller design, FPGA design, App Dev as well as personal interest in learning multiple spoken languages
 - 🌱 I’m currently learning coding in Python and learning German 
 - 💞️ I’m open to collaborate
